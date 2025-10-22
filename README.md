@@ -47,7 +47,7 @@ Secret-Santa/
 
 🔄 Process Flow
 
-```mermaid
+```
 sequenceDiagram
     participant Organizer
     participant Script
@@ -136,5 +136,3 @@ This project is open source under the [MIT License](LICENSE).
 ---
 
 *Happy gifting and Merry Coding!* 🎁🎄
-
-```
