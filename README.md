@@ -41,7 +41,7 @@ Secret-Santa/
 
 ## 🧠 Architecture Diagram
 
-<img width="624" height="536" alt="image" src="https://github.com/user-attachments/assets/e91c899e-01c6-4ba2-b826-90b90409c783" />
+<img width="124" height="136" alt="image" src="https://github.com/user-attachments/assets/e91c899e-01c6-4ba2-b826-90b90409c783" />
 
 ---
 
