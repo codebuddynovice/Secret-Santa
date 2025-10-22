@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8e24bd94-e550-4cbb-89a9-f91ff7db7bae" />Markdown
+Markdown
 🎅 Secret Santa Emailer
 
 A simple and fun Python project that automates your Secret Santa gift exchange!  
@@ -41,7 +41,7 @@ Secret-Santa/
 
 ## 🧠 Architecture Diagram
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/e91c899e-01c6-4ba2-b826-90b90409c783" />
+<img width="624" height="536" alt="image" src="https://github.com/user-attachments/assets/e91c899e-01c6-4ba2-b826-90b90409c783" />
 
 ---
 
